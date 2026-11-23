@@ -10,3 +10,5 @@ INTEGRANTES:
 Trilha: C (Big Query e Pandas)
 
 Pergunta de negócios: Em quais dias e horários a demanda por corridas de táxi tende a aumentar e quando a frota deve ser reforçada para atender aos passageiros?
+
+link colab: https://colab.research.google.com/drive/1WpA62ycOCGjE_RzfsuxNM-qS36XpXo0B
